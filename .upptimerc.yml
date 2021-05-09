@@ -23,13 +23,26 @@ status-website:
   # baseUrl: /your-repo-name
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Icetrust** example dashboard."
+  introMessage: "This dashboard shows an example of how to verify shell scripts used for installation via [the icetrust project](https://github.com/nightwatchcybersecurity/icetrust). There is an alternative version that looks like a conventional website status page here - [icetrust_uptime.nightwatchcybersecurity.com](https://icetrust_uptime.nightwatchcybersecurity.com/)."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Alternate Dashboard
+      href: https://icetrust_dashboard.nightwatchcybersecurity.com/
+    - title: GitHub for this dashboard
       href: https://github.com/$OWNER/$REPO
+    - title: Icetrust Repoi
+      href: https://github.com/nightwatchcybersecurity/icetrust
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
