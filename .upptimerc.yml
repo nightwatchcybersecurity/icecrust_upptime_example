@@ -5,13 +5,13 @@ repo: upptime # The name of this repository
 sites:
   - name: codecov
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/codecov.json
-    __dangerous__body_down: '"verified": true'
+    __dangerous__body_down: '"verified": false'
   - name: nixos
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/nixos.json
-    __dangerous__body_down: '"verified": true'
+    __dangerous__body_down: '"verified": false'
   - name: rvm
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/rvm.json
-    __dangerous__body_down: '"verified": true'
+    __dangerous__body_down: '"verified": false'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
