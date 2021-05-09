@@ -24,7 +24,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Icetrust** example dashboard."
-  introMessage: "This dashboard shows an example of how to verify shell scripts used for installation via [the icetrust project](https://github.com/nightwatchcybersecurity/icetrust). There is an alternative version that looks like a conventional website status page here - [icetrust_uptime.nightwatchcybersecurity.com](https://icetrust_uptime.nightwatchcybersecurity.com/)."
+  introMessage: "This dashboard shows an example of how to verify shell scripts used for installation via [the icetrust project](https://github.com/nightwatchcybersecurity/icetrust). There is an alternate version here: [icetrust_dashboard.nightwatchcybersecurity.com](https://icetrust_dashboard.nightwatchcybersecurity.com/)."
   navbar:
     - title: Status
       href: /
@@ -32,7 +32,7 @@ status-website:
       href: https://icetrust_dashboard.nightwatchcybersecurity.com/
     - title: GitHub for this dashboard
       href: https://github.com/$OWNER/$REPO
-    - title: Icetrust Repoi
+    - title: Icetrust Repo
       href: https://github.com/nightwatchcybersecurity/icetrust
 
 workflowSchedule:
