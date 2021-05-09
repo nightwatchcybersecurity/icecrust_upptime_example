@@ -2,6 +2,9 @@
 owner: nightwatchcybersecurity # Your GitHub organization or username, where this repository lives
 repo: icetrust_uptime_example # The name of this repository
 
+assignees:
+  - nightwatchcyber
+
 sites:
   - name: codecov bash uploader
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/codecov.json
