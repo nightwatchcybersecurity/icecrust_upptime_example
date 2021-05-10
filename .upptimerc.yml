@@ -40,9 +40,9 @@ status-website:
     - title: Icetrust Repo
       href: https://github.com/nightwatchcybersecurity/icetrust
 
-commitMessages:
-  commitAuthorName: "Icetrust Bot"
-  commitAuthorEmail: "icetrust-bot@nightwatchcybersecurity.com"
+#commitMessages:
+#  commitAuthorName: "Icetrust Bot"
+#  commitAuthorEmail: "icetrust-bot@nightwatchcybersecurity.com"
 
 workflowSchedule:
   graphs: "0 0 * * *"
