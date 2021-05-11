@@ -6,6 +6,10 @@ assignees:
   - nightwatchcyber
 
 sites:
+  - name: azure cli
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/azurecli.json
+    icon: https://azurecomcdn.azureedge.net/cvt-5a3a307f65e0121d1c34748c3ef63cee1e4bdfe8ff5728147785c53513db075b/images/icon/favicon.ico
+    __dangerous__body_down: '"verified": false'
   - name: codecov bash uploader
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/codecov.json
     icon: https://about.codecov.io/wp-content/themes/codecov/assets/brand/icons/favicons/favicon-16x16.png
