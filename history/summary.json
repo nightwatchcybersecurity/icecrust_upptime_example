@@ -36,6 +36,26 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "heroku cli",
+    "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/herokucli.json",
+    "icon": "https://www.herokucdn.com/favicon.ico",
+    "slug": "heroku-cli",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 26,
+    "timeDay": 26,
+    "timeWeek": 26,
+    "timeMonth": 26,
+    "timeYear": 26,
+    "dailyMinutesDown": {
+      "2021-05-11": 3
+    }
+  },
+  {
     "name": "nixos install script",
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/nixos.json",
     "icon": "https://nixos.org/favicon.png",
