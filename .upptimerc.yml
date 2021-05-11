@@ -6,6 +6,10 @@ assignees:
   - nightwatchcyber
 
 sites:
+  - name: awscli v2
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/awscli_v2.json
+    icon: https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico
+    __dangerous__body_down: '"verified": false'
   - name: codecov bash uploader
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/codecov.json
     icon: https://about.codecov.io/wp-content/themes/codecov/assets/brand/icons/favicons/favicon-16x16.png
