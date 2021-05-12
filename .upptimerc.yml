@@ -22,6 +22,10 @@ sites:
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/nixos.json
     icon: https://nixos.org/favicon.png
     __dangerous__body_down: '"verified": false'
+  - name: pnpm
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json
+    icon: https://pnpm.io/img/favicon.png
+    __dangerous__body_down: '"verified": false'
   - name: rustup installer
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/rustup.json
     icon: https://www.rust-lang.org/static/images/favicon-32x32.png
