@@ -1,7 +1,7 @@
 url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json
-status: degraded
+status: up
 code: 200
-responseTime: 23
-lastUpdated: 2021-05-13T17:08:03.813Z
+responseTime: 26
+lastUpdated: 2021-05-13T18:50:41.773Z
 startTime: Wed May 12 2021 01:31:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
