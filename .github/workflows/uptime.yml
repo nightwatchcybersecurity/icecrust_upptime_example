@@ -25,7 +25,7 @@ jobs:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT }}
       - name: Check endpoint status
-        uses: nightwatchcyber/uptime-monitor
+        uses: nightwatchcyber/uptime-monitor@master
         with:
           command: "update"
         env:
