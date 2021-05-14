@@ -54,6 +54,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "fusionauth installer",
+    "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/fusionauth.json",
+    "icon": "https://fusionauth.io/assets/img/favicon-32x32.png",
+    "slug": "fusionauth-installer",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 27,
+    "timeDay": 27,
+    "timeWeek": 27,
+    "timeMonth": 27,
+    "timeYear": 27,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "gcloud cli",
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/gcloudcli.json",
     "icon": "https://www.gstatic.com/devrel-devsite/prod/va16bb1b8e431a4d4f63ff4fba8ff7086a1107b3790bb14961ea206ea5eda2218/cloud/images/favicons/onecloud/favicon.ico",
@@ -88,7 +106,7 @@
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2021-05-14": 770,
+      "2021-05-14": 872,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 86
@@ -100,17 +118,19 @@
     "icon": "https://brew.sh/assets/img/favicon.ico",
     "slug": "homebrew",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 57,
-    "timeWeek": 79,
-    "timeMonth": 79,
-    "timeYear": 79,
-    "dailyMinutesDown": {}
+    "uptime": "96.66%",
+    "uptimeDay": "95.16%",
+    "uptimeWeek": "96.66%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
+    "time": 51,
+    "timeDay": 34,
+    "timeWeek": 51,
+    "timeMonth": 51,
+    "timeYear": 51,
+    "dailyMinutesDown": {
+      "2021-05-14": 70
+    }
   },
   {
     "name": "magento cloud cli",
@@ -135,19 +155,19 @@
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/nixos.json",
     "icon": "https://nixos.org/favicon.png",
     "slug": "nixos-install-script",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.54%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "98.54%",
+    "uptimeYear": "98.54%",
     "time": 45,
-    "timeDay": 45,
+    "timeDay": 46,
     "timeWeek": 45,
     "timeMonth": 45,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2021-05-14": 0
+      "2021-05-14": 102
     }
   },
   {
@@ -173,19 +193,19 @@
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json",
     "icon": "https://pnpm.io/img/favicon.png",
     "slug": "pnpm",
-    "status": "degraded",
-    "uptime": "61.64%",
-    "uptimeDay": "33.10%",
-    "uptimeWeek": "61.64%",
-    "uptimeMonth": "61.64%",
-    "uptimeYear": "61.64%",
+    "status": "up",
+    "uptime": "61.83%",
+    "uptimeDay": "34.32%",
+    "uptimeWeek": "61.83%",
+    "uptimeMonth": "61.83%",
+    "uptimeYear": "61.83%",
     "time": 36,
-    "timeDay": 36,
+    "timeDay": 34,
     "timeWeek": 36,
     "timeMonth": 36,
     "timeYear": 36,
     "dailyMinutesDown": {
-      "2021-05-14": 671,
+      "2021-05-14": 703,
       "2021-05-13": 693
     }
   },
