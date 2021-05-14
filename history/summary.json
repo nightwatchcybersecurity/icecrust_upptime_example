@@ -88,7 +88,8 @@
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2021-05-13": 1436,
+      "2021-05-14": 68,
+      "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 86
     }
@@ -171,11 +172,11 @@
     "icon": "https://pnpm.io/img/favicon.png",
     "slug": "pnpm",
     "status": "up",
-    "uptime": "75.07%",
+    "uptime": "75.69%",
     "uptimeDay": "51.79%",
-    "uptimeWeek": "75.07%",
-    "uptimeMonth": "75.07%",
-    "uptimeYear": "75.07%",
+    "uptimeWeek": "75.69%",
+    "uptimeMonth": "75.69%",
+    "uptimeYear": "75.69%",
     "time": 38,
     "timeDay": 37,
     "timeWeek": 38,
