@@ -88,7 +88,7 @@
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2021-05-14": 691,
+      "2021-05-14": 770,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 86
@@ -135,18 +135,20 @@
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/nixos.json",
     "icon": "https://nixos.org/favicon.png",
     "slug": "nixos-install-script",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
-    "timeDay": 34,
+    "timeDay": 45,
     "timeWeek": 45,
     "timeMonth": 45,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-14": 0
+    }
   },
   {
     "name": "pip bootstrap",
@@ -171,19 +173,19 @@
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json",
     "icon": "https://pnpm.io/img/favicon.png",
     "slug": "pnpm",
-    "status": "down",
-    "uptime": "63.04%",
+    "status": "degraded",
+    "uptime": "61.64%",
     "uptimeDay": "33.10%",
-    "uptimeWeek": "63.04%",
-    "uptimeMonth": "63.04%",
-    "uptimeYear": "63.04%",
-    "time": 37,
+    "uptimeWeek": "61.64%",
+    "uptimeMonth": "61.64%",
+    "uptimeYear": "61.64%",
+    "time": 36,
     "timeDay": 36,
-    "timeWeek": 37,
-    "timeMonth": 37,
-    "timeYear": 37,
+    "timeWeek": 36,
+    "timeMonth": 36,
+    "timeYear": 36,
     "dailyMinutesDown": {
-      "2021-05-14": 592,
+      "2021-05-14": 671,
       "2021-05-13": 693
     }
   },
