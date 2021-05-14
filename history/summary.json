@@ -88,7 +88,7 @@
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2021-05-14": 68,
+      "2021-05-14": 100,
       "2021-05-13": 1440,
       "2021-05-12": 1440,
       "2021-05-11": 86
@@ -171,18 +171,19 @@
     "url": "https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json",
     "icon": "https://pnpm.io/img/favicon.png",
     "slug": "pnpm",
-    "status": "up",
-    "uptime": "75.69%",
-    "uptimeDay": "51.79%",
-    "uptimeWeek": "75.69%",
-    "uptimeMonth": "75.69%",
-    "uptimeYear": "75.69%",
+    "status": "degraded",
+    "uptime": "75.96%",
+    "uptimeDay": "51.78%",
+    "uptimeWeek": "75.96%",
+    "uptimeMonth": "75.96%",
+    "uptimeYear": "75.96%",
     "time": 38,
-    "timeDay": 37,
+    "timeDay": 38,
     "timeWeek": 38,
     "timeMonth": 38,
     "timeYear": 38,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-05-13": 693
     }
   },
