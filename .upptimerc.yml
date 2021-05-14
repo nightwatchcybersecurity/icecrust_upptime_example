@@ -24,6 +24,12 @@ sites:
     __dangerous__body_down: '"verified": false'
     __dangerous__body_degraded: '"previous_version_matched": false'
 
+  - name: fusionauth installer
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/fusionauth.json
+    icon: https://fusionauth.io/assets/img/favicon-32x32.png
+    __dangerous__body_down: '"verified": false'
+    __dangerous__body_degraded: '"previous_version_matched": false'
+
   - name: gcloud cli
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/gcloudcli.json
     icon: https://www.gstatic.com/devrel-devsite/prod/va16bb1b8e431a4d4f63ff4fba8ff7086a1107b3790bb14961ea206ea5eda2218/cloud/images/favicons/onecloud/favicon.ico
