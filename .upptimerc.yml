@@ -96,6 +96,11 @@ sites:
     __dangerous__body_down: '"verified": false'
     #__dangerous__body_degraded: '"previous_version_matched": false'
 
+  - name: scoop
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/scoop.json
+    __dangerous__body_down: '"verified": false'
+    #__dangerous__body_degraded: '"previous_version_matched": false'
+
   - name: sdkman
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/sdkman.json
     icon: https://sdkman.io/assets//img/favicon.ico
