@@ -48,6 +48,12 @@ sites:
     __dangerous__body_down: '"verified": false'
     #__dangerous__body_degraded: '"previous_version_matched": false'
 
+  - name: ibm cloud cli
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/ibmcloudcli.json
+    icon: https://cloud.ibm.com/media/docs/images/homepage/favicon.png
+    __dangerous__body_down: '"verified": false'
+    #__dangerous__body_degraded: '"previous_version_matched": false'
+
   - name: magento cloud cli
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/magentocloudcli.json
     icon: https://magento.com/favicon.ico
