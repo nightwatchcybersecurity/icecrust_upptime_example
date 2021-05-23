@@ -51,6 +51,10 @@ sites:
     icon: https://rvm.io/favicon.ico
     __dangerous__body_down: '"verified": false'
 
+  - name: salt bootstrap
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/saltbootstrap.json
+    __dangerous__body_down: '"verified": false'
+
   - name: scoop
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/scoop.json
     __dangerous__body_down: '"verified": false'
