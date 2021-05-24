@@ -69,7 +69,7 @@ status-website:
 
   name: Icetrust Example Dashboard
   introTitle: "**Icetrust** example dashboard."
-  introMessage: "This dashboard shows an example of how to verify shell scripts used for installation via [the icetrust project](https://github.com/nightwatchcybersecurity/icetrust). There is an alternate version here: [icetrust_dashboard.nightwatchcybersecurity.com](https://icetrust_dashboard.nightwatchcybersecurity.com/). These projects were selected from the lists found in our [dont_curl_and_bash project](https://github.com/nightwatchcybersecurity/dont_curl_and_bash)."
+  introMessage: "This dashboard shows an example of how to verify shell scripts used for installation via [the icetrust project](https://github.com/nightwatchcybersecurity/icetrust). This example includes a subset of projects that have cryptographic verification available, there is fuller alternate version here: [icetrust_dashboard.nightwatchcybersecurity.com](https://icetrust_dashboard.nightwatchcybersecurity.com/). These projects were selected from the lists found in our [dont_curl_and_bash project](https://github.com/nightwatchcybersecurity/dont_curl_and_bash)."
   navbar:
     - title: Status
       href: /
