@@ -36,10 +36,10 @@ sites:
     icon: https://platform.sh/images/favicon/favicon-16x16.png
     __dangerous__body_down: '"verified": false'
 
-  - name: pnpm
-    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json
-    icon: https://pnpm.io/img/favicon.png
-    __dangerous__body_down: '"verified": false'
+#  - name: pnpm
+#    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/pnpm.json
+#    icon: https://pnpm.io/img/favicon.png
+#    __dangerous__body_down: '"verified": false'
 
   - name: rustup bootstrap
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/rustup.json
