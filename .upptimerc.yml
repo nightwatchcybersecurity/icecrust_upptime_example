@@ -59,6 +59,10 @@ sites:
     url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/scoop.json
     __dangerous__body_down: '"verified": false'
 
+  - name: volta
+    url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/volta.json
+    __dangerous__body_down: '"verified": false'
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
