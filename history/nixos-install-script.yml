@@ -1,7 +1,7 @@
 url: https://icetrust_dashboard.nightwatchcybersecurity.com/data/output/nixos.json
-status: down
+status: up
 code: 200
-responseTime: 91
-lastUpdated: 2021-12-20T23:05:44.178Z
+responseTime: 29
+lastUpdated: 2021-12-21T01:31:39.788Z
 startTime: Sun May 09 2021 18:36:20 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
