@@ -89,13 +89,13 @@ commitMessages:
   commitAuthorEmail: "icetrust-bot@nightwatchcybersecurity.com"
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
+  graphs: "0 0 5 31 2"
+  responseTime: "0 0 5 31 2"
   staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "15 */6 * * *"
+  summary: "0 0 5 31 2"
+  updateTemplate: "0 0 5 31 2"
+  updates: "0 3 5 31 2"
+  uptime: "0 0 5 31 2"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
